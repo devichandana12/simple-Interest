@@ -1,0 +1,7 @@
+installed react meterial ui 
+
+visit react meterial ui website
+
+cpy the insatll command
+
+when you using the react meterial ul import the corresponding components
